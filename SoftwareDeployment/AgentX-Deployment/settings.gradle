@@ -1,0 +1,10 @@
+rootProject.name = 'AgentX-Deployment'
+
+include 'domain'
+include 'application'
+include 'infrastructure'
+include 'config'
+include 'app'
+include 'backend'
+
+

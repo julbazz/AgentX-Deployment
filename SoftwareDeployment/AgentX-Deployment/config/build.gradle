@@ -1,0 +1,13 @@
+plugins {
+    id 'java'
+}
+
+dependencies {
+    // Keine externen Dependencies
+}
+
+
+
+
+
+
